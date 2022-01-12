@@ -1,6 +1,6 @@
-# HyperFrameOE-WildFly
-- 업로드된 바이너리는 HyperFrame Open Edition WildFly 제품 설치를 위한 파일  
-- 웹서버와 연동하는데 필요한 mod_jk.so 파일은 HyperFrameOE-Apache의 binaries 폴더에서도 확인 가능
+# HyperFrame-WildFly
+- 업로드된 바이너리는 HyperFrame WildFly 제품 설치를 위한 파일  
+- 웹서버와 연동하는데 필요한 mod_jk.so 파일은 HyperFrame-Apache의 binaries 폴더에서도 확인 가능
 
 ## 설치 파일
 
